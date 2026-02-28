@@ -1,7 +1,7 @@
 # INNOVERSE-MERINEXUS
-a ml based project to understand a student's cogninitive development and guide in improvement based on their capacity 
+A ML based project to understand a student's cogninitive development and guide in improvement based on their capacity 
 
-TO execute the program navigate to folder containing app.py anf execute it in terminal as "python app.py"
+To execute the program navigate to folder containing app.py anf execute it in terminal as "python app.py"
 
 📊 Evaluation Criteria Alignment — Detailed Technical Points
 🔹 Problem Definition & Relevance
